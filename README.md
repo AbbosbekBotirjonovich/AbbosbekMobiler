@@ -1,6 +1,3 @@
-# Abbosbek Mobiler
-
-
 # Hi there 👋
 # I'm Abbosbek Botirjonovich
 # I'm Android developer from Uzbekistan
