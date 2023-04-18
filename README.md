@@ -1,6 +1,6 @@
 # Hi there 👋
 # I'm Abbosbek Botirjonovich
-# I'm Android developer from Uzbekistan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7D85F7&center=true&vCenter=true&width=435&lines=I'm+Android+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbbosbekMobiler&show_icons=true&theme=radical)
 
